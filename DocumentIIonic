@@ -1,0 +1,4 @@
+https://coursetro.com/posts/code/36/Installing-Ionic-2-&-Starting-a-Project
+
+$ npm install -g ionic cordova 
+installs ionic CLI along with cordova
